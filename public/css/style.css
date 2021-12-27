@@ -1,0 +1,12 @@
+#baniere{
+        padding: 100px 10;
+    }
+
+    @media all and (max width: 500px){
+        #baniere{
+            padding: 30px;
+        }
+    }
+
+
+
